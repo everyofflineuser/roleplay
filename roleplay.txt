@@ -1,0 +1,17 @@
+"roleplay"
+{
+    "base"          "sandbox"
+    "title"         "RolePlay"
+    "version"       "1.0"
+    "category"      "rp"
+    "menusystem"    "1"
+    "workshopid"    "3106823614"
+
+    "author_name"   "everyofflineuser & NS Team"
+    "author_email"  ""
+    "author_url"    "https://github.com/everyofflineuser/roleplay"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}

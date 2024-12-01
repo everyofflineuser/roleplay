@@ -1,4 +1,17 @@
 AddCSLuaFile( "cl_init.lua" )
 AddCSLuaFile( "shared.lua" )
+AddCSLuaFile("config/config.lua")
+AddCSLuaFile("libs/logger.lua")
+AddCSLuaFile("libs/nw.lua")
+AddCSLuaFile("core/cl_jobs.lua")
+AddCSLuaFile("core/sh_playerclass.lua")
 
 include( "shared.lua" )
+include("config/config.lua")
+include("libs/logger.lua")
+include("libs/nw.lua")
+include("core/sv_jobs.lua")
+include("config/jobs.lua")
+include("core/sh_playerclass.lua")
+
+RP.print("server side ready...")
