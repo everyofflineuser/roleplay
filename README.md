@@ -2,6 +2,8 @@
 
 Welcome to a unique new mode that completely redefines the concept of DarkRP! Here you will find a fresh take on role-playing, where every player can become part of a dynamic world with unique mechanics and features.
 
+> **WARNING:** Gamemode in WIP!
+
 # TODO
 
 ## Base
