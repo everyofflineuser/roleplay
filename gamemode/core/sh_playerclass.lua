@@ -1,7 +1,7 @@
 local PLAYER_CLASS = {}
 
 -- Value of -1 = set to config value, if a corresponding setting exists
-PLAYER_CLASS.DisplayName = "RP Base Player Class"
+PLAYER_CLASS.DisplayName = "rp Base Player Class"
 PLAYER_CLASS.WalkSpeed = -1
 PLAYER_CLASS.RunSpeed = -1
 PLAYER_CLASS.DuckSpeed = 0.3
